@@ -9,7 +9,7 @@ inventory/.mvn
 
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-target/
+#target/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
