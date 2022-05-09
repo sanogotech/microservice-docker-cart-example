@@ -16,6 +16,7 @@
     <groupId>com.hitesh.microservices</groupId>
     <artifactId>microservices</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+	      <relativePath>../microservice-docker-cart-example</relativePath>
   </parent>
   
 
