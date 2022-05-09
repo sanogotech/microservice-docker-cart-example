@@ -1,0 +1,4 @@
+com\hitesh\microservices\zuulEdgeGateway\api\SwaggerServicesConfig.class
+com\hitesh\microservices\zuulEdgeGateway\api\SwaggerServicesConfig$SwaggerServices.class
+com\hitesh\microservices\zuulEdgeGateway\api\ApiDocumentationController.class
+com\hitesh\microservices\zuulEdgeGateway\ZuulEdgeGatewayApplication.class

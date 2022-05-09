@@ -1,0 +1,17 @@
+com\hitesh\microservices\customer\dto\Item.class
+com\hitesh\microservices\customer\controller\CustomerController.class
+com\hitesh\microservices\customer\client\InvoiceServiceClient.class
+com\hitesh\microservices\customer\dto\OrderDetail.class
+com\hitesh\microservices\customer\dto\InventoryCheckResultDTO.class
+com\hitesh\microservices\customer\services\InventoryService$InventoryCheckDTO.class
+com\hitesh\microservices\customer\repository\CustomerRepository.class
+com\hitesh\microservices\customer\models\Customer.class
+com\hitesh\microservices\customer\services\InventoryService.class
+com\hitesh\microservices\customer\models\Address.class
+com\hitesh\microservices\customer\dto\CustomerOrders.class
+com\hitesh\microservices\customer\CustomerApplication.class
+com\hitesh\microservices\customer\dto\ModeOfPay.class
+com\hitesh\microservices\customer\client\InvoiceServiceClient$InvoiceClientFallback.class
+com\hitesh\microservices\customer\dto\Invoice.class
+com\hitesh\microservices\customer\services\InvoiceService.class
+com\hitesh\microservices\customer\swaggerconfig\SwaggerConfig.class
